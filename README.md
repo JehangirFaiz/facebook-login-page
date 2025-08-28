@@ -1,6 +1,6 @@
 # Facebook Login Page Clone  
 
-This project is a ****clone of the Facebook login and signup page** created entirely with **HTML** and **CSS**. The main purpose of this project is to practice front-end web development skills and understand how to structure and style a simple user interface that looks similar to a real-world product.  
+This project is a **clone of the Facebook login and signup page** created entirely with **HTML** and **CSS**. The main purpose of this project is to practice front-end web development skills and understand how to structure and style a simple user interface that looks similar to a real-world product.  
 
 The project demonstrates how a basic web page layout can be designed to replicate popular websites, in this case, Facebook. While it does not include any backend functionality such as database connections or authentication, it effectively shows the design and structure of the login system.  
 
